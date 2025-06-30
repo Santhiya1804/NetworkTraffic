@@ -1,0 +1,8 @@
+Total Number of Packets Captured: 107
+Protocols Identified:
+TCP (Transmission Control Protocol) – Reliable data transport
+UDP
+DNS (Domain Name System) – Used to resolve domain names to IP
+The DNS protocol was used to translate domain names (like google.com) into IP addresses.
+TCP is the underlying protocol managing connection-oriented delivery between host and server.
+UDP protocol used to send data without establishing a connection between sender and receiver.
